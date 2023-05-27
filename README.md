@@ -11,6 +11,7 @@ Make sure you have the following tools installed in your system:
 
 Input Files
 You need to have the following files in your current directory to run this script:
+    
     1 .vcf.gz files: Compressed VCF files that contain your genomic data. The script will find all .vcf.gz files in the current directory.
 
     2 human_g1k_v37.fasta: Reference genome in FASTA format that is used to normalize the VCF files.
