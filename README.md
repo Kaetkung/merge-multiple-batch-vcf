@@ -19,8 +19,9 @@ You need to have the following files in your current directory to run this scrip
 Usage
 To execute the script, save it in a .sh file and provide execute permission. This can be done with the following commands:
 
-$ chmod +x scriptname.sh
-$ ./scriptname.sh
+- $ chmod +x scriptname.sh
+
+- $ ./scriptname.sh
 
 (Replace scriptname.sh with your actual script filename.)
 
